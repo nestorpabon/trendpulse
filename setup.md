@@ -1,6 +1,7 @@
 # TrendPulse
 
-Create a luxury feeling high-end web application, as if you were a senior website designer and software engineer working with startups for an AI-powered Full-Service content creation and marketing app called TACE (Topical Authority Content Engine). Do the application website design to match the style of thi site: 'https://ai-content-template.webflow.io/'. I want the website to feature the following pages: Homepage, About page, contact us page, and a blog page with 4 blog articles already populated.
+
+Create a luxury feeling high-end SaaS web application, as if you were a senior website designer and software engineer working with startups for an AI-powered Full-Service content creation and marketing app called TACE (Topical Authority Content Engine). This SaaS web application will have a Frontend, and a Backend. The Backend will be gated and will stroe user accounts and content in a PostgreSQL database. Do the application Frontend website design to match the style of this site: 'https://ai-content-template.webflow.io/'. I want the website to feature the following pages: Homepage, About page, contact us page, a blog page with 4 blog articles already populated. The nav menu should also have a Register button for none registered users.
 
 For the homepage I want it to include a hero section with a title, copy, and get started button centred, with a large image underneath showing the product UI using the attached image ‘mockup’. 
 
@@ -33,8 +34,7 @@ For button styles I want to use a neumorphism 3d style button that glows when yo
 From the tablet breakpoint down, the navigation menu should collapse to a burger menu, with an animating full height tray style menu coming in from the right and animating out when it is closed.
 
 
-The application should have the following fully functional Modules:
-
+For the Backend the application should have the following fully functional Modules:
 
 ## Module 1: Exploding Topics
 
